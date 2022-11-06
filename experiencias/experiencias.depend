@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667610445 source:c:\users\hek\documents\algoritimo e logica\10\experiencias\main.cpp
+	<iostream>
+	<iomanip>
+	<climits>
+
